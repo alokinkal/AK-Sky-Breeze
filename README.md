@@ -1,4 +1,3 @@
-# AK-Sky-Breeze
 ![](/screenshot.png)
 *Breathable space with a dash of color.*
 
