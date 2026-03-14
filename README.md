@@ -25,11 +25,11 @@ Until Obsidian reviews and approves the theme to be featured directly in their a
 5. **Optionally** download the `Style Themes` plugin to tweak the **warmth** of the theme
 
 ## Screenshots
-### Default: Cool Neutrals + Blue Accent
+### Default Settings: Cool Neutrals + Blue Accent
 ![](screenshot-cool.png)
-### Warm + a Freely Chosen Orange-Red Accent
+### Warm Neutrals + a Freely Chosen Orange-Red Accent
 ![](screenshot-warm.png)
-### Neutral + a Freely Chosen Hot Pink Accent
+### Neutral Neutrals + a Freely Chosen Hot Pink Accent
 ![](screenshot-neutral.png)
 
 ## Fonts and Colors
