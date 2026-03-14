@@ -1,4 +1,4 @@
-![](/screenshot.png)
+![](/screenshot-big.png)
 
 
 *Breathable space with a dash of color.*
