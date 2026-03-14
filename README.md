@@ -24,6 +24,14 @@ Until Obsidian reviews and approves the theme to be featured directly in their a
 4. Open Obsidian → `Settings` → `Appearance` → `Themes` and select **AK Sky Breeze**
 5. **Optionally** download the `Style Themes` plugin to tweak the **warmth** of the theme
 
+## Screenshots
+### Default: Cool Neutrals + Blue Accent
+![](screenshot-cool.png)
+### Warm + a Freely Chosen Orange-Red Accent
+![](screenshot-warm.png)
+### Neutral + a Freely Chosen Hot Pink Accent
+![](screenshot-neutral.png)
+
 ## Fonts and Colors
 It focuses on very **readable** fonts, good contrasts and overall keeping it simple and spacious. But since I also **love** colors, I had to keep them present, but still out of the way. 
 
