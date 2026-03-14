@@ -8,6 +8,22 @@
 It softens borders, simplifies colors and leaves plenty of space so that everything can comfortably breathe. Even thought subtle - color changes can significantly impact the overall feel of the theme, while keeping it light and clear.
 
 I made it as a theme for myself. One that I personally would enjoy the most and decided to share it with the world. 
+
+## Installation
+Until Obsidian reviews and approves the theme to be featured directly in their app, **Manual Installation** is the only option:
+
+**Manual installation**
+1. Download `theme.css` and `manifest.json` from this repository
+	- Click on each file, then `...` in top right and download.
+2. Navigate to `<your_vault>/.obsidian/themes` and create a new folder inside of it called `AK Sky Breeze`
+	- If you can't see the `.obsidian` folder inside your vault (it's hidden by default)
+		- On **MacOS** press `command + shift + .` (period)
+		- On **Windows**: [Show Hidden Files - Microsoft Support](https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1)
+		- GNU/**Linux**: In most file explorers, press `ctrl + h`
+3. Place `theme.css` and `manifest.json` into the folder you just created
+4. Open Obsidian → `Settings` → `Appearance` → `Themes` and select **AK Sky Breeze**
+5. **Optionally** download the `Style Themes` plugin to tweak the **warmth** of the theme
+
 ## Fonts and Colors
 It focuses on very **readable** fonts, good contrasts and overall keeping it simple and spacious. But since I also **love** colors, I had to keep them present, but still out of the way. 
 
